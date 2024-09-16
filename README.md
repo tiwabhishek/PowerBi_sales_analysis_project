@@ -7,7 +7,7 @@
 - 
 ## Yearly-Analysis
 ![Yearly-Analysis](Yearly-Analysis.png)
-- It shows the information on Revenue generated each month of each year and its percentage.
+- It shows the Revenue generated each month of each year and its percentage within that year.
 
 ## Market Analysis
 ![Market(Location) Analysis](Market(Location)Analysis.png)
@@ -15,8 +15,8 @@
 
 ## Customer Analysis
 ![Customer_Analysis](Customer_Analysis.png)
-- It shows information about Customers such as Sales contribution, Revenue contribution, profit margin contribution, and Cities generating more than the target profit(2%).
+- It shows information about Customers such as Sales contribution, Revenue contribution, profit margin contribution, and Customers providing more than the target profit(2%).
 
-## Customer Analysis
-![Customer_Analysis](Customer_Analysis.png)
-- It shows information about Customers such as Sales contribution, Revenue contribution, profit margin contribution, and Cities generating more than the target profit(2%).
+## Product table
+![Customer_Analysis](Product_table.png)
+- Sometimes the information needed should be used in tabular form. That can also be presented in Power Bi.
