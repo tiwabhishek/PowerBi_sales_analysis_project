@@ -11,4 +11,12 @@
 
 ## Market Analysis
 ![Market(Location) Analysis](Market(Location)Analysis.png)
-- It shows the information on Revenue generated each month of each year and its percentage.
+- It shows information about markets (Cities) such as Sales contribution, Revenue contribution, profit margin contribution, and Cities generating more than the target profit(2%).
+
+## Customer Analysis
+![Customer_Analysis](Customer_Analysis.png)
+- It shows information about Customers such as Sales contribution, Revenue contribution, profit margin contribution, and Cities generating more than the target profit(2%).
+
+## Customer Analysis
+![Customer_Analysis](Customer_Analysis.png)
+- It shows information about Customers such as Sales contribution, Revenue contribution, profit margin contribution, and Cities generating more than the target profit(2%).
