@@ -4,3 +4,11 @@
 ## OVERVIEW
 ![Overview](Overview.png)
 - It shows information such as Revenue, Total profit margin, Total sales, Revenue trend chart by Month, Total Revenue pi-chart by year, Top 5 products and customers by Revenue, and size of markets on the map where the size of the circle depicts revenue generated from that city.
+- 
+## Yearly-Analysis
+![Yearly-Analysis](Yearly-Analysis.png)
+- It shows the information on Revenue generated each month of each year and its percentage.
+
+## Market Analysis
+![Market(Location) Analysis](Market(Location) Analysis.png)
+- It shows the information on Revenue generated each month of each year and its percentage.
