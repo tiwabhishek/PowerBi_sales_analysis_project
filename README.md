@@ -10,5 +10,5 @@
 - It shows the information on Revenue generated each month of each year and its percentage.
 
 ## Market Analysis
-![Market(Location) Analysis](Market(Location) Analysis.png)
+![Market(Location) Analysis](Market(Location)Analysis.png)
 - It shows the information on Revenue generated each month of each year and its percentage.
